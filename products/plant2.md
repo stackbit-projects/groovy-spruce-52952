@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '2'
-price: '99.00'
+price: '1299.00'
 description: 'Materiały i inspiracja: statek kosmiczny'
 default_thumbnail_image: images/plant2.jpg
 default_original_image: images/plant2-lg.jpg
