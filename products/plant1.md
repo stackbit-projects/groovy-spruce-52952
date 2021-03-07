@@ -7,7 +7,7 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt.
-default_thumbnail_image: images/stolik.jpg
+default_thumbnail_image: images/smart-plankton.jpg
 default_original_image: images/elite-mango.jpg
 featured: true
 order: 1
