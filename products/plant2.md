@@ -3,7 +3,7 @@ layout: product
 id: '2'
 price: '1299.00'
 description: 'Materiały i inspiracja: statek kosmiczny'
-default_thumbnail_image: images/kuchnia1.jpg
+default_thumbnail_image: images/home-5835289_1280.jpg
 default_original_image: images/plant2-lg.jpg
 order: 2
 category: category/cactuses.md
