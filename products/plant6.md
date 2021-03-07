@@ -8,6 +8,7 @@ default_original_image: images/important-tortoise.jpg
 order: 6
 category: category/bigplants.md
 price: '450,00 pln'
+featured: true
 ---
 
 # Donec finibus
