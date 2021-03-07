@@ -36,7 +36,7 @@ sections:
     title: Meble loftowe
   - type: testimonials_section
     section_id: opinie_section
-    title: Opi
+    title: 'Opinie '
     testimonials:
       - author:
           name: John Dope
