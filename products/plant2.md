@@ -9,7 +9,6 @@ order: 2
 category: category/cactuses.md
 title: Nowoczesna zabudowa kuchenna
 ---
-
-# Integer porta
+# Nowoczesna zabudowa kuchenna
 
 Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus.
