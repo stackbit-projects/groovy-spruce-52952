@@ -59,7 +59,7 @@ sections:
     image: images/smile-2001662_1920.jpg
     background_image: images/kind-elm.jpg
     cta:
-      title: Discover
+      title: D
       url: /store
       style: secondary
       arrow: true
