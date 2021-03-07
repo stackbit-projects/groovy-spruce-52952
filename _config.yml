@@ -4,7 +4,7 @@ permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
-favicon: images/interior-5316910_640.jpg
+favicon: images/favicon.png
 logo_dark: images/logo.svg
 logo_light: images/logo-white.svg
 hamburger_background_image: /images/leaf-light-grey.svg
