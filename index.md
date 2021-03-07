@@ -29,7 +29,7 @@ sections:
       - products/plant5.md
       - products/plant7.md
   - type: featured_categories_section
-    section_id: loftowe_categories_section
+    section_id: produkty_categories_section
     featured_categories:
       - category/bigplants.md
       - category/cactuses.md
