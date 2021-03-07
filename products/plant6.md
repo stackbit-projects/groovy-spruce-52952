@@ -3,7 +3,7 @@ layout: product
 id: '6'
 price: '100.00'
 title: Kolorowe krzesło
-description: Wygone krzesło do siedzenia
+description: Wygodne krzesło do siedzenia
 default_thumbnail_image: images/plant6.jpg
 default_original_image: images/plant6-lg.jpg
 order: 6
