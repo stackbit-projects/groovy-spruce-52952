@@ -57,7 +57,7 @@ sections:
     title: Polecamy stoły dębowe na zamówienie
     subtitle: od 2000 pln
     image: images/smile-2001662_1920.jpg
-    background_image: images/leaf.svg
+    background_image: images/kind-elm.jpg
     cta:
       title: Discover
       url: /store
