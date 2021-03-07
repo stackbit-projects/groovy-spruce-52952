@@ -1,5 +1,5 @@
 ---
-title: Store
+title: Sklep
 layout: store
 sections:
   - type: store_section
