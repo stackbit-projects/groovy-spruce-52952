@@ -35,7 +35,7 @@ sections:
       - category/cactuses.md
     title: Meble loftowe
   - type: testimonials_section
-    section_id: testimonials_section
+    section_id: opinie_section
     title: Testimonials
     testimonials:
       - author:
