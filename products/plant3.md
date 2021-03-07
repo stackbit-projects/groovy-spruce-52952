@@ -5,7 +5,7 @@ price: '150.00'
 title: Wykończenie ściany
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/festive-mahogany.jpg
-default_original_image: images/plant3-lg.jpg
+default_original_image: images/festive-neptune.jpg
 featured: true
 order: 3
 category: category/cactuses.md
