@@ -33,7 +33,6 @@ sections:
     featured_categories:
       - category/bigplants.md
       - category/cactuses.md
-      - category/category-ey22g5u1i.md
     title: Produkty
   - type: testimonials_section
     section_id: opinie_section
