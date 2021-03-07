@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '3'
-price: '150.00'
+price: '1500.00'
 title: Biała kuchnia
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/festive-mahogany.jpg
