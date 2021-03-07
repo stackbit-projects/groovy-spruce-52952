@@ -54,7 +54,7 @@ sections:
           recruits.
   - type: promotion_section
     section_id: promotion_section
-    title: Polecamy stoły dębowe na zamówienie
+    title: Stoły dębowe na zamówienie
     subtitle: od 2000 pln
     image: images/smile-2001662_1920.jpg
     background_image: images/kind-elm.jpg
