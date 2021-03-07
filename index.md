@@ -65,7 +65,7 @@ sections:
       arrow: true
   - section_id: Regały
     title: Regał według Twojego pomysłu
-    subtitle: lorem-ipsum
+    subtitle: już od 100 pln
     cta:
       title: lorem-ipsum
       url: lorem-ipsum
