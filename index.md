@@ -33,7 +33,7 @@ sections:
     featured_categories:
       - category/bigplants.md
       - category/cactuses.md
-    title: Meble lof
+    title: Meble loftowe
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
