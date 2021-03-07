@@ -7,6 +7,7 @@ default_thumbnail_image: images/plant2.jpg
 default_original_image: images/plant2-lg.jpg
 order: 2
 category: category/cactuses.md
+title: Nowoczesna zabudowa kouchenn
 ---
 
 # Integer porta
