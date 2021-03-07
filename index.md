@@ -64,7 +64,7 @@ sections:
       style: secondary
       arrow: true
   - section_id: Regały według Twojego pomysłu
-    title: lorem-ipsum
+    title: Regał według Twojego pomys
     subtitle: lorem-ipsum
     cta:
       title: lorem-ipsum
