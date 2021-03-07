@@ -33,7 +33,7 @@ sections:
     featured_categories:
       - category/bigplants.md
       - category/cactuses.md
-    title: Meble loftowe
+    title: Produkty
   - type: testimonials_section
     section_id: opinie_section
     title: 'Opinie '
