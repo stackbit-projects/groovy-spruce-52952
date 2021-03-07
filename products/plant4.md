@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '4'
-price: '24.99'
+price: '1124.99'
 title: Regał industrialny
 description: Maecenas pretium blandit ex id lobortis.
 default_thumbnail_image: images/plant4.jpg
