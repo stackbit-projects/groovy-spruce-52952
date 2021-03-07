@@ -63,4 +63,14 @@ sections:
       url: /store
       style: secondary
       arrow: true
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    cta:
+      title: lorem-ipsum
+      url: lorem-ipsum
+      style: primary
+      arrow: false
+      type: action
+    type: promotion_section
 ---
