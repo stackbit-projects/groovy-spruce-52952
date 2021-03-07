@@ -7,7 +7,7 @@ default_thumbnail_image: images/plant6.jpg
 default_original_image: images/plant6-lg.jpg
 order: 6
 category: category/bigplants.md
-price: '450'
+price: '450,00 pln'
 ---
 
 # Donec finibus
