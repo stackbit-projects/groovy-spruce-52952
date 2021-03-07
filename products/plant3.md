@@ -2,7 +2,7 @@
 layout: product
 id: '3'
 price: '150.00'
-title: Wykończenie ściany
+title: aiB
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/festive-mahogany.jpg
 default_original_image: images/festive-neptune.jpg
