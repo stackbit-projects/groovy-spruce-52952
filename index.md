@@ -69,7 +69,7 @@ sections:
     cta:
       title: Dowiedz się więcej
       url: lorem-ipsum
-      style: primary
+      style: secondary
       arrow: false
       type: action
     type: promotion_section
