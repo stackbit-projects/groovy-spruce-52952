@@ -8,7 +8,7 @@ description: >-
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt.
 default_thumbnail_image: images/smart-plankton.jpg
-default_original_image: images/elite-mango.jpg
+default_original_image: images/important-coriander.jpg
 featured: true
 order: 1
 category: category/bigplants.md
