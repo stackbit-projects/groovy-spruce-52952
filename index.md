@@ -63,7 +63,7 @@ sections:
       url: /store
       style: secondary
       arrow: true
-  - section_id: 'Twoja zabudowa '
+  - section_id: Rega
     title: lorem-ipsum
     subtitle: lorem-ipsum
     cta:
