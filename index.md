@@ -1,6 +1,6 @@
 ---
 layout: home
-title: M
+title: MGStudio
 white_header: true
 sections:
   - type: hero_section
