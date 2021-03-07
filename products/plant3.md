@@ -4,7 +4,7 @@ id: '3'
 price: '1500.00'
 title: Biała kuchnia
 description: 'Nulla non pretium metus, vitae finibus lectus.'
-default_thumbnail_image: images/festive-mahogany.jpg
+default_thumbnail_image: images/modern-potato.jpg
 default_original_image: images/festive-neptune.jpg
 featured: true
 order: 3
