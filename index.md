@@ -54,7 +54,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Polecamy stoły dębowe na zamówienie
-    subtitle: from $149.99
+    subtitle: od $149.99
     image: images/promo.jpg
     background_image: images/leaf.svg
     cta:
