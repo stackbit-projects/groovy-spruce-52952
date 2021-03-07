@@ -1,7 +1,6 @@
 ---
 layout: product
 id: '6'
-price: '100.00'
 title: Kolorowe krzesło
 description: Wygodne krzesło do siedzenia
 default_thumbnail_image: images/plant6.jpg
