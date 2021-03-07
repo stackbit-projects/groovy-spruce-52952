@@ -3,7 +3,7 @@ layout: product
 id: '6'
 title: Kolorowe krzesło
 description: Wygodne krzesło do siedzenia
-default_thumbnail_image: images/krzesło.jpg
+default_thumbnail_image: images/oceanic-panda.jpg
 default_original_image: images/marvelous-whale.jpg
 order: 6
 category: category/bigplants.md
