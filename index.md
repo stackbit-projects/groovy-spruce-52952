@@ -61,6 +61,6 @@ sections:
     cta:
       title: Dowiedz się więcej
       url: /store
-      style: secondary
+      style: primary
       arrow: true
 ---
