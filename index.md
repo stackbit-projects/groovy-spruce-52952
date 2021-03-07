@@ -63,7 +63,7 @@ sections:
       url: /store
       style: secondary
       arrow: true
-  - section_id: Rega
+  - section_id: Regały według Twojego pomysłu
     title: lorem-ipsum
     subtitle: lorem-ipsum
     cta:
