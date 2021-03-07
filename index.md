@@ -14,7 +14,7 @@ sections:
       Don't forget to add your Snipcart API key to the site's configuration to
       enable Cart actions.
     actions:
-      - title: See all items
+      - title: Wszus
         url: /store
         arrow: true
         style: primary
