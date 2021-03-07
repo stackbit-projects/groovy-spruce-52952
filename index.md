@@ -20,7 +20,7 @@ sections:
         style: secondary
   - type: featured_products_section
     section_id: best_sellers_section
-    title: POPULARNE
+    title: Popularne
     icon: true
     light_title: true
     featured_products:
