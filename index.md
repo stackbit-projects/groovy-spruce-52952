@@ -67,7 +67,7 @@ sections:
     title: Regał według Twojego pomysłu
     subtitle: już od 100 pln
     cta:
-      title: lorem-ipsum
+      title: Dowiedz się więcej
       url: lorem-ipsum
       style: primary
       arrow: false
