@@ -70,7 +70,7 @@ sections:
       title: Dowiedz się więcej
       url: lorem-ipsum
       style: secondary
-      arrow: false
+      arrow: true
       type: action
     type: promotion_section
     image: images/156411350_179622623688170_6477969684407700859_n.jpg
